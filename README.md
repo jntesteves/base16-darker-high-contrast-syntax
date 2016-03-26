@@ -1,13 +1,11 @@
-# Base16 Tomorrow Dark Syntax theme
+# Base16 Darker High Contrast Syntax theme
 
-Atom theme using the ever popular [Base16 Tomorrow](http://chriskempson.github.io/base16/#tomorrow) dark colors.
-
-![Base16 Tomorrow light](https://cloud.githubusercontent.com/assets/378023/10118589/f108a568-64b6-11e5-8438-eb34dc9b40a1.png)
+Syntax theme for Atom loosely based off of the [Base16](http://chriskempson.github.io/base16/) dark palette.
+This theme was forked from [Base16 Tomorrow Dark](https://github.com/atom/base16-tomorrow-dark-theme) and will be kept updated with future changes to it.
 
 
 ## Install
 
-This theme is installed by default with Atom and can be activated by going to the _Themes_ section in the Settings view (`cmd-,`) and selecting it from the _Syntax Themes_ drop-down menu.
-
-A
-[light version](https://github.com/atom/base16-tomorrow-light-theme) of this theme is also available.
+```
+apm install base16-darker-high-contrast-theme
+```
