@@ -9,7 +9,7 @@
     "syntax",
     "contrast"
   ],
-  "repository": "https://github.com/jntesteves/base16-darker-high-contrast-theme",
+  "repository": "https://github.com/jntesteves/base16-darker-high-contrast-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">0.49.0"

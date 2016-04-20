@@ -10,5 +10,5 @@ The font used on the screenshot is ```Source Code Pro```.
 ## Install
 
 ```
-apm install base16-darker-high-contrast-theme
+apm install base16-darker-high-contrast-syntax
 ```
