@@ -1,7 +1,7 @@
 {
   "name": "base16-darker-high-contrast-syntax",
   "theme": "syntax",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "High contrast dark theme based on base16-tomorrow-dark",
   "keywords": [
     "base16",
